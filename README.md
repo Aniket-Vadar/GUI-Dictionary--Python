@@ -52,4 +52,4 @@ How to make code changes and add them to this repo with a Pull Request.
 ## License ⚖️
 
 - Distributed under the `MIT License`. See [LICENSE](/LICENSE) for more information.
-- 
+
