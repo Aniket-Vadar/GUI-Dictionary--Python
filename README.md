@@ -39,9 +39,11 @@ How to make code changes and add them to this repo with a Pull Request.
     
     
 ## Contributors ✨
-- Aniket Vadar
-- Sarthak Samgir
-- Zahir Mulla
+
+## [Zahir Mulla ](https://github.com/zahirm86)
+
+
+
     
   ## Contributing 🤝
  - Contributions are always welcome! If you have any suggestions or bug reports, please submit an issue or pull request.
